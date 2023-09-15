@@ -1,0 +1,1 @@
+. $PSScriptRoot/Functions/Get-AzGovernanceAccess.ps1
