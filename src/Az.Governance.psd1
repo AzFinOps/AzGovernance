@@ -18,6 +18,8 @@
 
   # Modules that must be imported into the global environment prior to importing this module
   RequiredModules = @(
+    'Az.Accounts',
+    'Az.Resources'
   )
 
   # Minimum version of the PowerShell engine required by this module
@@ -25,7 +27,7 @@
 
   # Specifies the functions to export from this module
   FunctionsToExport = @(
-    Get-AzGovernanceAccess
+    'Get-AzGovernanceAccess'
   )
 
   # Specifies the cmdlets to export from this module
