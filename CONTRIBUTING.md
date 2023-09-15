@@ -66,7 +66,7 @@ Please adhere to our [style guide](https://github.com/AzFinOps/AzGovernance/wiki
 
 ## Community
 
-Join our community! You can find us in [GitHub Discussions](https://github.com/AzFinOps/AzGovernance/discussions) and on our [Blog](https://azfinops.blog) for discussions and updates.
+Join our community! You can find us in [GitHub Discussions](https://github.com/orgs/AzFinOps/discussions) and on our [Blog](https://azfinops.blog) for discussions and updates.
 
 ## License
 
