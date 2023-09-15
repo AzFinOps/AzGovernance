@@ -11,13 +11,13 @@
 If you discover a security vulnerability in the AzFinOps module, please follow these steps to report it responsibly:
 
 1. **Alert the Maintainers:**  
-    Contact the module maintainers immediately by [opening an issue](https://github.com/AzFinOps/AzFinOps/issues) with "Security Vulnerability" in the title.
+    Contact the module maintainers immediately by [opening an issue](https://github.com/AzFinOps/AzGovernance/issues) with "Security Vulnerability" in the title.
 
 2. **Provide Details:**  
     Describe the vulnerability with as much detail as possible, including steps to reproduce the issue and potential impact.
 
 3. **Confidentiality:**  
-    If the vulnerability is sensitive, please reach out privately to the maintainers via [vulnerability report](https://github.com/AzFinOps/AzFinOps/security/advisories/new) instead of creating a public issue.
+    If the vulnerability is sensitive, please reach out privately to the maintainers via [vulnerability report](https://github.com/AzFinOps/AzGovernance/security/advisories/new) instead of creating a public issue.
 
 ## Responsible Disclosure
 
