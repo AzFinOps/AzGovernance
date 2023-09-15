@@ -39,7 +39,7 @@ function Get-AzGovernanceAccess {
     $localReport = [System.Collections.Concurrent.ConcurrentBag[PSCustomObject]]@()
     $subscriptionId = (Get-AzContext).Subscription.Id
     $subscriptionName = (Get-AzContext).Subscription.Name
-    
+
     $access = Get-AzRoleAssignment
     $access | Foreach-Object -ThrottleLimit 5 -Parallel {
       $localReport = $using:localReport
